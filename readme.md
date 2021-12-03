@@ -2,6 +2,10 @@
 
 First, follow the instruction from Yolov3 [website](https://pjreddie.com/darknet/yolo/).
 
+Second, download the [weight](https://drive.google.com/file/d/1i9E9pTPN5MtRxgBJWLnfQl2ypCv92dXk/view) file, and the netwrok [configue](https://github.com/MiguelARD/DoorDetect-Dataset/blob/master/yolo-obj.cfg) file and a text file where the detected classes names and their order is specified [obj.names](https://github.com/MiguelARD/DoorDetect-Dataset/blob/master/obj.names).
+
+-----------------
+
 <p align="center"><img src="doc/img/realsense.png" width="70%" /><br><br></p>
 
 -----------------
