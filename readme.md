@@ -1,8 +1,12 @@
 ## How to use yolov3 to detect the door
 
+Required libraries: Yolov3, OpenCV, CUDA10.0
+
 First, follow the instruction from Yolov3 [website](https://pjreddie.com/darknet/yolo/).
 
 Second, download the [weight](https://drive.google.com/file/d/1i9E9pTPN5MtRxgBJWLnfQl2ypCv92dXk/view) file, and the netwrok [configue](https://github.com/MiguelARD/DoorDetect-Dataset/blob/master/yolo-obj.cfg) file and a text file where the detected classes names and their order is specified [obj.names](https://github.com/MiguelARD/DoorDetect-Dataset/blob/master/obj.names).
+
+Third, put the previous files in proper place that is specified in rs-capture.cpp file. Recompile the librealsense and it should work.
 
 -----------------
 
