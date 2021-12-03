@@ -1,6 +1,6 @@
 ## How to use yolov3 to detect the door
 
-
+First, follow the instruction from Yolov3 [website](https://pjreddie.com/darknet/yolo/).
 
 <p align="center"><img src="doc/img/realsense.png" width="70%" /><br><br></p>
 
